@@ -1,47 +1,47 @@
 ## ☁️ CloudMart – Multi-Cloud AI-Powered Application
-📌 Overview
 
+Welcome to the **CloudMart – Multi-Cloud AI-Powered Application** repository!  
 CloudMart is a multi-cloud, cloud-native application developed during The Cloud Bootcamp DevOps & AI Challenge. It integrates AWS, Azure, GCP, Docker, and Kubernetes to deliver a scalable e-commerce solution with built-in AI assistants for customer support and engagement.
 
 The application demonstrates full-stack deployment with intelligent automation, showcasing the power of cloud-native and AI-driven architectures.
 
 ## 🏗️ Architecture
 
-Frontend: React + TailwindCSS (deployed via Kubernetes)
+ **Frontend**: React + TailwindCSS (deployed via Kubernetes)
 
-Backend: Node.js/Express services containerized with Docker
+**Backend**: Node.js/Express services containerized with Docker
 
-Databases: AWS DynamoDB for product & user data
+**Databases**: AWS DynamoDB for product & user data
 
-Cloud Platforms:
+**Cloud Platforms**:
 
-AWS (EC2, EKS, DynamoDB, Bedrock for AI)
+- AWS (EC2, EKS, DynamoDB, Bedrock for AI)
 
-Azure (Kubernetes Services & Monitoring)
+- Azure (Kubernetes Services & Monitoring)
 
-GCP (multi-cloud integration and testing)
+- GCP (multi-cloud integration and testing)
 
-AI Integration:
+**AI Integration**:
 
-OpenAI & Amazon Bedrock → AI Assistants for customer support
+- OpenAI & Amazon Bedrock → AI Assistants for customer support
 
-Sonnet 3 LLM → Advanced sentiment analysis for conversations
+- Sonnet 3 LLM → Advanced sentiment analysis for conversations
 
-Automatic ticket escalation via CloudMart Ticket Director
+- Automatic ticket escalation via CloudMart Ticket Director
 
 ## ⚙️ Features
 
-Multi-cloud deployment across AWS, Azure, and GCP
+- Multi-cloud deployment across AWS, Azure, and GCP
 
-Scalable container orchestration with Kubernetes (EKS/AKS/GKE)
+- Scalable container orchestration with Kubernetes (EKS/AKS/GKE)
 
-AI-powered chat assistants for customer engagement
+- AI-powered chat assistants for customer engagement
 
-Sentiment analysis to classify and escalate critical conversations
+- Sentiment analysis to classify and escalate critical conversations
 
-Secure & efficient backend API with Node.js + Docker
+- Secure & efficient backend API with Node.js + Docker
 
-Responsive React frontend with TailwindCSS
+- Responsive React frontend with TailwindCSS
 
 ## 📂 Project Structure
 ```
@@ -56,29 +56,32 @@ CloudMart/
 ```
 ## 📊 Impact
 
-Hands-on multi-cloud deployment across AWS, Azure, and GCP
+- Hands-on multi-cloud deployment across AWS, Azure, and GCP
 
-Learned to integrate AI assistants for real-world e-commerce support
+- Learned to integrate AI assistants for real-world e-commerce support
 
-Built scalable, cloud-native architecture using Kubernetes + Docker
+- Built scalable, cloud-native architecture using Kubernetes + Docker
 
-Showcased advanced AI-driven sentiment analysis & automation
+- Showcased advanced AI-driven sentiment analysis & automation
 
 ## 🛠️ Tech Stack
 
-Languages & Frameworks: JavaScript, React, Node.js, TailwindCSS
+- **Languages & Frameworks**: JavaScript, React, Node.js, TailwindCSS
 
-Cloud: AWS, Azure, GCP
+- **Cloud**: AWS, Azure, GCP
 
-Databases: DynamoDB
+- **Databases**: DynamoDB
 
-DevOps: Docker, Kubernetes, EKS, AKS, GKE
+- **DevOps**: Docker, Kubernetes, EKS, AKS, GKE
 
-AI: OpenAI, Amazon Bedrock, Sonnet 3 LLM
+- **AI**: OpenAI, Amazon Bedrock, Sonnet 3 LLM
 
 ## 📺 Demo
 <img width="848" height="589" alt="image" src="https://github.com/user-attachments/assets/566430d2-1ec3-448f-8ed9-7a15811bce8e" />
 
 ## 👤 Author
-Sai Meghana
+Sai Meghana 
 Passionate about cloud, AI, and DevOps, building scalable intelligent applications.
+
+### Happy To Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghagovind/)
